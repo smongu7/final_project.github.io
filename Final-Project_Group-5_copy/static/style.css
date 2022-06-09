@@ -1,0 +1,17 @@
+/* change text color (to yellow) */
+.jumbotron h1{
+    color: #f4fa21;
+    font-family: "ITC Machine Bold";
+    font-weight: 600;
+    text-align: center;
+    border-style: solid;
+}
+
+.jumbotron p{
+    color: #f4fa21;
+}
+
+/* change background color (to blue) */
+.jumbotron {
+    background-color:#0b06d5;
+  }
